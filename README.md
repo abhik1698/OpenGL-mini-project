@@ -1,3 +1,3 @@
-# openGL-mini-project
+# OpenGL-mini-project
 
 import glut libraries
